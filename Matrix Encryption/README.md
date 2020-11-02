@@ -1,2 +1,3 @@
 
-![Usage](/Images/metrix.jpg)
+## Table
+![Matrix](/Matrix%20Encryption/Images/matrix.JPG)
